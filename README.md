@@ -15,7 +15,7 @@ A python project that classifies iris flowers based on sepal and petal measureme
 -Scikit-learn
 
 ## Model Performance
-**Accuracy:**100%
+**Accuracy**:100%
 
 ## Dataset
 The project uses iris dataset
